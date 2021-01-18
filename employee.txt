@@ -1,4 +1,4 @@
-Név:Település:Fizetés:Jutalom:Születés:Belépés
+Név: Település: Cim: Fizetés: Jutalom: Születés: Belépés:
 Finch Zoltán:Miskolc:Kossuth u.61:220000:10000:1979-01-22:2009-01-26
 Petyi Zoltán:Szeged:Kossuth u.15:370000:5000:1985-10-19:1996-01-5
 Gilpin Zoltán:Miskolc:Kossuth u.5:520000:0:1954-04-10:2000-01-23
