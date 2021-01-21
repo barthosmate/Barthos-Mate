@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+}
+
+body {
+	color: #333;
+	background-image: url(hatter02.png);
+}
+
+
+.content {
+	background-color: #E5E5E5;
+	max-width: 600px;
+	margin-top: 15px;
+}
+
+.kep1 {
+	float: right;
+	width: 200px;
+	margin-left: 8px;
+}
+
+.kep2 {
+	float: left;
+	margin-right: 8px;
+}
+
+.kep3{
+	float: right;
+	margin-left: 8px;
+}
+
+img {
+	width: 200px;
+}
+
+p {
+	text-align: justify;
+}
+.vonalkoz {
+	text-transform: uppercase;
+	letter-spacing: 8px;
+}
